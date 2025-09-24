@@ -29,7 +29,7 @@ ${x?datetime} → pracuje s hodnotou jako s datem a časem
 1. Zkontroluj výsledek v prohlížeči.
 
 ## Mohlo by se hodit
-* odkaz na stránku [Lekce 2](https://java.czechitas.cz/2024-jaro/java-2-online/lekce-2.html)
+* odkaz na stránku [Lekce 2](https://java.czechitas.cz/2025-podzim/java-2-online/lekce-2.html)
 * Freemarker [date, time, datetime](https://freemarker.apache.org/docs/ref_builtins_date.html#ref_builtin_date_datetype)
 * CSS framework [Bootstrap](https://getbootstrap.com)
 * balík [java.time](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/time/package-summary.html)
